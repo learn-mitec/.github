@@ -14,11 +14,16 @@
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### Our working standards
+#### Our working standards
 
-### To deliver frequently yet maintain the quality
+_todo_
 
-### Open positions
+#### To deliver frequently yet maintain the quality
 
-### Notion docs
+_todo_
 
+#### Open positions
+_todo_
+
+#### Notion docs
+_todo: add the role_
