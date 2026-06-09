@@ -21,7 +21,7 @@ A reusable NuGet package for building AI agent loops in .NET — provider-agnost
 ## Repositories
 
 | Repository | Purpose |
-|------------|---------||
+|------------|---------|
 | [`opensource-lab`](https://github.com/learn-mitec/opensource-lab) | OpensourceLab platform |
 | [`pdf-fordev-jobs`](https://github.com/learn-mitec/pdf-fordev-jobs) | BookWorm backend and book processing |
 | [`pdfs-fordev-boostrap`](https://github.com/learn-mitec/pdfs-fordev-boostrap) | Deployment infrastructure |
