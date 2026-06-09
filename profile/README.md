@@ -1,4 +1,4 @@
-# learn-mitec
+# a little institution at mitec
 
 We build developer tools and AI-powered learning platforms, primarily targeting the Vietnamese developer community.
 
