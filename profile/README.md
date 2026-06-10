@@ -51,12 +51,9 @@ We hold ourselves to a high bar. Here's what that looks like in practice.
 | Repository | Purpose |
 |------------|---------|
 | [`opensource-lab`](https://github.com/learn-mitec/opensource-lab) | OpensourceLab platform |
-| [`pdf-fordev-jobs`](https://github.com/learn-mitec/pdf-fordev-jobs) | BookWorm backend and book processing |
-| [`pdfs-fordev-boostrap`](https://github.com/learn-mitec/pdfs-fordev-boostrap) | Deployment infrastructure |
+| [`pdfs-fordev`](https://github.com/learn-mitec/pdfs-fordev-boostrap) | Powerful tools for PDFs, composing bilingual books |
 | [`agent-loop-dotnet-10`](https://github.com/learn-mitec/agent-loop-dotnet-10) | AgentFlow NuGet package |
-| [`contracts`](https://github.com/learn-mitec/contracts) | Shared API contracts (NuGet) |
 | [`LLM-reverse-engine`](https://github.com/learn-mitec/LLM-reverse-engine) | OpenAI-compatible API via Copilot CLI |
-| [`software-department`](https://github.com/learn-mitec/software-department) | Team processes and documentation |
 
 ## Contributing
 
@@ -65,3 +62,4 @@ See [`CONTRIBUTING.md`](https://github.com/learn-mitec/software-department/blob/
 ## Project Board
 
 Track our work on the [project board](https://github.com/orgs/learn-mitec/projects/1/views/1).
+Another project board for outsourcing work.
