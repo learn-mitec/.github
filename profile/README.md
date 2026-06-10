@@ -42,6 +42,8 @@ We hold ourselves to a high bar. Here's what that looks like in practice.
 
 🤖 **AI that knows our codebase** — Our AI assistants aren't generic. They're trained on our conventions, our architecture, our workflows. They work like senior developers who've been here since day one.
 
+🎯 **We ship what matters first** — Every ticket is ordered deliberately. Dependencies are mapped, feasibility is assessed, and quick wins with high impact go to the top. We don't just work hard — we work on the right things in the right order.
+
 > 📄 For the full technical details, see our [engineering standards](https://github.com/learn-mitec/software-department/blob/main/engineering-standards.md).
 
 ## Repositories
